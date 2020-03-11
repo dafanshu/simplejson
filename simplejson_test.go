@@ -3,7 +3,6 @@ package simplejson
 import (
 	"encoding/json"
 	"fmt"
-	"handler/function/pkg/components/simplejson"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
